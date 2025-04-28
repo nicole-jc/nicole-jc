@@ -8,7 +8,7 @@
 
 #
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV5azBmaDFoaGc1OTVtNm9vOXZqbnMybG0wcGtiY2w3dXg1N2J2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"/>
+<img align="right" height="180" src="src/gif.gif"/>
 
 
 <h3 align="left">✧ My Stack</h3>
