@@ -40,9 +40,9 @@
 <div style="text-align: center;" align="center">
   <h3>⭒ ⊹ GitHub Stats ⊹ ⭒</h3>
   <br>
-    <a href="https://github.com/nicole-jc/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicole-jc&line_height=15&card_width=400&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c571ff&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=ac33ff&count_private=true" alt="Most Used Languages">
-  </a>
+    <img src="https://streak-stats.demolab.com?user=nicole-jc&theme=tokyonight&hide_border=true" alt="nicole-jc's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-jc&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="nicole-jc's GitHub Stats" />
 </div>
 
 #
