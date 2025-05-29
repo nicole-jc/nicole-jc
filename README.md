@@ -6,7 +6,8 @@
 <br>
 <p align="center">
   Hello! I'm Nicole, a Computer Science student with a passion for tech that started in my childhood when I first explored Windows 98. Since then, I’ve been intrigued by technology and how it can change the world. <br><br>
-  Right now, I'm diving into REST APIs, Laravel, PHP, SQL and exploring new features and tools to level up my skills.
+  Right now, I'm diving into REST APIs, Laravel, PHP, SQL and exploring new features and tools to level up my skills.<br><br>
+  <em>"N'ai pas peur d'essayer"</em>
 </p>
 
 #
