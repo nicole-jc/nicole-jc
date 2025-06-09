@@ -44,9 +44,11 @@
 
 <h3 align="left">✧ Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/nforelsket/)
-[![Linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/nicolecjardim/)
-[![Backloggd](https://img.shields.io/static/v1?message=Backloggd&logo=backloggd&label=&color=black&logoColor=white&labelColor=&style=for-the-badge)](https://backloggd.com/u/nforelsket/)
+[![Linktree](https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge)](https://linktr.ee/nicolecj)
+[![dev.to](https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0a0a0a&logoColor=white&labelColor=&style=for-the-badge)](https://dev.to/nicole_cj)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/nicolecjardim/)
+[![Backloggd](https://img.shields.io/static/v1?message=Backloggd&logo=Backloggd&label=&color=0a0a0a&logoColor=white&labelColor=&style=for-the-badge)](https://www.backloggd.com/u/nforelsket)
+
 
 #
 <div style="text-align: center;" align="center">
